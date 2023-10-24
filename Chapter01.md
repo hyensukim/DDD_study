@@ -55,7 +55,7 @@
 
 예를 들어, '주문 도메인'을 이해하기 위해 하위 도메인로 구성된 개념(추상) 모델을 참조한다.
 
-![객체를 이용한 도메인 모델]()
+![객체를 이용한 도메인 모델](https://github.com/hyensukim/DDD_study/blob/main/image/%EB%8F%84%EB%A9%94%EC%9D%B8%20%EB%AA%A8%EB%8D%B8.jpg?raw=true)
 
 위 같은 경우, 정확하게는 몰라도 해당 도메인에서 주문정보 수정, 주문 취소 등의 기능을 할 수 있다는 것을 알 수 있다.
 
@@ -73,7 +73,7 @@
 
 ## 1.4 도메인 모델 패턴
 
-![애플리케이션 아키텍처]()
+![애플리케이션 아키텍처](https://github.com/hyensukim/DDD_study/blob/main/image/%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98%20%EA%B5%AC%EC%84%B1.png?raw=true)
 
 도메인 계층은 도메인 핵심 규칙을 객체지향적으로 구현한 객체이다.
 
