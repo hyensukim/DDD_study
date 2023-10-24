@@ -229,7 +229,7 @@ ex) 주문 엔티티 -> 주문 데이터 + 배송지 주소 변경과 같은 로
 
 ## 2.5 요청 처리 흐름
 
-![img]()
+![img](https://github.com/hyensukim/DDD_study/blob/main/image/%EC%9A%94%EC%B2%AD%20%EC%B2%98%EB%A6%AC%20%ED%9D%90%EB%A6%84.png?raw=true)
 
 
 ## 2.6 인프라스트럭처 개요
@@ -243,4 +243,8 @@ DIP를 사용하여 인프라스트럭처 영역과 도메인 영역 사이에 �
 
 ## 2.7 모듈 구성
 
-패키지 구성 규칙
+✅ 모듈(패키지 구성 규칙)
+
+![img](https://github.com/hyensukim/DDD_study/blob/main/image/%EB%AA%A8%EB%93%88%20%EA%B5%AC%EC%84%B11.jpg?raw=true)
+
+![img](https://github.com/hyensukim/DDD_study/blob/main/image/%EB%AA%A8%EB%93%88%EA%B5%AC%EC%84%B12.jpg?raw=true)
